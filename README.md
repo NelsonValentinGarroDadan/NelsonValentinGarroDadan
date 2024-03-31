@@ -16,12 +16,12 @@
   <hr/>
   <img src="https://skillicons.dev/icons?i=java"/>
   <hr/>
-  <img src="(https://skillicons.dev/icons?i=github"/>
-  <img src="(https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
   <hr/>
-  <img src="(https://skillicons.dev/icons?i=windows"/>
-  <img src="(https://skillicons.dev/icons?i=vscode"/>
-  <img src="(https://skillicons.dev/icons?i=androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=windows"/>
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio"/>
 </div>
 
 
