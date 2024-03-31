@@ -1,14 +1,28 @@
-<h1 style="text-aling:center;">Tecnologias</h1><br/>
-Front-end:
-### ![My Skills](https://skillicons.dev/icons?i=html,css,js,express,pug,bootstrap,react)
-Back-end: 
-### ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql,postman)
-Movil:
-### ![My Skills](https://skillicons.dev/icons?i=java)
-Control de version:
-### ![My Skills](https://skillicons.dev/icons?i=github,git)
-IDE:
-### ![My Skills](https://skillicons.dev/icons?i=windows,vscode,androidstudio)
+<h1 align="center">Tecnologias</h1>
+<div>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=express"/>
+  <img src="https://skillicons.dev/icons?i=pug"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <hr/>
+  <img src="https://skillicons.dev/icons?i=cs"/>
+  <img src="https://skillicons.dev/icons?i=dotnet"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=postman"/>
+  <hr/>
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <hr/>
+  <img src="(https://skillicons.dev/icons?i=github"/>
+  <img src="(https://skillicons.dev/icons?i=git"/>
+  <hr/>
+  <img src="(https://skillicons.dev/icons?i=windows"/>
+  <img src="(https://skillicons.dev/icons?i=vscode"/>
+  <img src="(https://skillicons.dev/icons?i=androidstudio"/>
+</div>
 
 
 <!--
