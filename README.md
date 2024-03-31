@@ -1,4 +1,4 @@
-######Tecnologias#####
+<h1>Tecnologias</h1><br/>
 Front-end:
 ### ![My Skills](https://skillicons.dev/icons?i=html,css,js,express,pug,bootstrap,react)
 Back-end: 
