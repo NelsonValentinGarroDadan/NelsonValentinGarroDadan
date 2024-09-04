@@ -7,7 +7,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=react"/>
   <hr/>
-  <img src="https://skillicons.dev/icons?i=cs"/>
   <img src="https://skillicons.dev/icons?i=nodejs"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img src="https://skillicons.dev/icons?i=postman"/>
