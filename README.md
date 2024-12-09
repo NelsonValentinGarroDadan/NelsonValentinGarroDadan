@@ -78,18 +78,22 @@ Un backend para gestionar compras de productos, autenticación con Auth0, almace
 ## 📬 ¡Conéctemos!
 
 Si te interesa alguno de mis proyectos, tienes alguna duda o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/valentín-garro">
+  <a href="https://www.linkedin.com/in/valentín-garro" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nelsonvgarrodadan@gmail.com">
+  <a href="mailto:nelsonvgarrodadan@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://nelsonvalentingarrodadan.github.io/Portafolio/build/">
-    <img src="https://img.shields.io/badge/Portafolio-%230A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=white&label=%F0%9F%90%A7%20Portafolio" alt="Portafolio" />
+  <a href="https://nelsonvalentingarrodadan.github.io/Portafolio/build/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portafolio-%230A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
   </a>
 </div>
+
+
+
+
+
 
 
 
