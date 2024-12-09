@@ -36,8 +36,13 @@ Una app para planificar actividades grupales a ciegas. Los usuarios pueden unirs
 > - 🔗 [Repo Front](https://github.com/chi-bosio/Buddify)
 > - 🔗 [Repo Back](https://github.com/chi-bosio/Buddify_API)
 
+### 2. 🛒 **E-Commerce Backend**
+> Un backend para gestionar compras de productos, autenticación con Auth0, almacenamiento de imágenes en Cloudinary, y gestión de datos con TypeORM y PostgreSQL.
+> - 🔧 **Tecnologías**: NestJS, TypeScript, Auth0, Cloudinary, TypeORM, PostgreSQL  
+> - 🔗 [Documentacion](https://ecommerce-peh6.onrender.com/api)
+> - 🔗 [Repo](https://github.com/NelsonValentinGarroDadan/backend-ecommerce)
 
-### 2. 🎬 **Netflis | Clon de Netflix**
+### 3. 🎬 **Netflis | Clon de Netflix**
 > ¡Una versión con humor de Netflix! Usé una API para mostrar películas de manera divertida, con diseño inspirado en Netflix y un toque único.
 > - 🔧 **Tecnologías**: HTML, CSS (Bootstrap), JavaScript  
 > - 🔗 [Deploy](https://nelsonvalentingarrodadan.github.io/Netflis/index.html)
@@ -46,18 +51,14 @@ Una app para planificar actividades grupales a ciegas. Los usuarios pueden unirs
 > - 🔗 [Repo Back](https://github.com/NelsonValentinGarroDadan/NetflisAPI)
 
 
-### 3. 💡 **Mural de Ideas**
+### 4. 💡 **Mural de Ideas**
 > Un mural interactivo donde los usuarios pueden agregar ideas de forma anónima o con su nombre. Cada vez que se recarga, las ideas cambian. ¡Es divertido ver cómo crecen > las ideas!
 > - 🔧 **Tecnologías**: TypeScript, Express, MongoDB, Mongoose, Pug  
 > - 🔗 [Deploy](https://ideas-633x.onrender.com/ideas)
 > - 🔗 [Repo](https://github.com/NelsonValentinGarroDadan/ideas)
 
 
-### 4. 🛒 **E-Commerce Backend**
-> Un backend para gestionar compras de productos, autenticación con Auth0, almacenamiento de imágenes en Cloudinary, y gestión de datos con TypeORM y PostgreSQL.
-> - 🔧 **Tecnologías**: NestJS, TypeScript, Auth0, Cloudinary, TypeORM, PostgreSQL  
-> - 🔗 [Documentacion](https://ecommerce-peh6.onrender.com/api)
-> - 🔗 [Repo](https://github.com/NelsonValentinGarroDadan/backend-ecommerce)
+
 
 ---
 ## 📬 **Conéctate conmigo**
