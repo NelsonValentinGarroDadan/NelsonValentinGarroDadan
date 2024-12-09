@@ -28,35 +28,35 @@ Soy un desarrollador fullstack con experiencia en la creación de aplicaciones w
 
 ## 🚀 Proyectos destacados
 
-### 1. **Buddify | App de Actividades en Grupo**
+### 1. 🎉 **Buddify | App de Actividades en Grupo**
 Una app para planificar actividades grupales a ciegas. Los usuarios pueden unirse y crear actividades, ¡pero con un toque de misterio! Usé geolocalización para crear y buscar actividades, y un chat grupal con socket para mantener todo en comunicación.
 
-- 🔧 **Tecnologías**: Next.js, React, TypeScript, Socket.io, Geolocalización, OAuth 2.0, Cron Jobs  
-- 🔗 [Deploy](https://buddifytest.vercel.app)
-- 🔗 [Documentacion Back](https://buddify-api-ju0h.onrender.com/api)
-- 🔗 [Repo Front](https://github.com/chi-bosio/Buddify)
-- 🔗 [Repo Back](https://github.com/chi-bosio/Buddify_API)
+> - 🔧 **Tecnologías**: Next.js, React, TypeScript, Socket.io, Geolocalización, OAuth 2.0, Cron Jobs  
+> - 🔗 [Deploy](https://buddifytest.vercel.app)
+> - 🔗 [Documentacion Back](https://buddify-api-ju0h.onrender.com/api)
+> - 🔗 [Repo Front](https://github.com/chi-bosio/Buddify)
+> - 🔗 [Repo Back](https://github.com/chi-bosio/Buddify_API)
 
 
-### 2. **Netflis | Clon de Netflix**
-¡Una versión con humor de Netflix! Usé una API para mostrar películas de manera divertida, con diseño inspirado en Netflix y un toque único.
+### 2. 🎬 **Netflis | Clon de Netflix**
+> ¡Una versión con humor de Netflix! Usé una API para mostrar películas de manera divertida, con diseño inspirado en Netflix y un toque único.
 
-- 🔧 **Tecnologías**: HTML, CSS (Bootstrap), JavaScript  
-- 🔗 [Deploy](https://nelsonvalentingarrodadan.github.io/Netflis/index.html)
-- 🔗 [Deploy Back](https://netflisapi.onrender.com/movies)
-- 🔗 [Repo Front](https://github.com/NelsonValentinGarroDadan/Netflis)
-- 🔗 [Repo Back](https://github.com/NelsonValentinGarroDadan/NetflisAPI)
-
-
-### 3. **Mural de Ideas**
-Un mural interactivo donde los usuarios pueden agregar ideas de forma anónima o con su nombre. Cada vez que se recarga, las ideas cambian. ¡Es divertido ver cómo crecen las ideas!
-
-- 🔧 **Tecnologías**: TypeScript, Express, MongoDB, Mongoose, Pug  
-- 🔗 [Deploy](https://ideas-633x.onrender.com/ideas)
-- 🔗 [Repo](https://github.com/NelsonValentinGarroDadan/ideas)
+> - 🔧 **Tecnologías**: HTML, CSS (Bootstrap), JavaScript  
+> - 🔗 [Deploy](https://nelsonvalentingarrodadan.github.io/Netflis/index.html)
+> - 🔗 [Deploy Back](https://netflisapi.onrender.com/movies)
+> - 🔗 [Repo Front](https://github.com/NelsonValentinGarroDadan/Netflis)
+> - 🔗 [Repo Back](https://github.com/NelsonValentinGarroDadan/NetflisAPI)
 
 
-### 4. **E-Commerce Backend**
+### 3. 💡 **Mural de Ideas**
+> Un mural interactivo donde los usuarios pueden agregar ideas de forma anónima o con su nombre. Cada vez que se recarga, las ideas cambian. ¡Es divertido ver cómo crecen > las ideas!
+
+> - 🔧 **Tecnologías**: TypeScript, Express, MongoDB, Mongoose, Pug  
+> - 🔗 [Deploy](https://ideas-633x.onrender.com/ideas)
+> - 🔗 [Repo](https://github.com/NelsonValentinGarroDadan/ideas)
+
+
+### 4. 🛒 **E-Commerce Backend**
 Un backend para gestionar compras de productos, autenticación con Auth0, almacenamiento de imágenes en Cloudinary, y gestión de datos con TypeORM y PostgreSQL.
 
 - 🔧 **Tecnologías**: NestJS, TypeScript, Auth0, Cloudinary, TypeORM, PostgreSQL  
@@ -64,17 +64,7 @@ Un backend para gestionar compras de productos, autenticación con Auth0, almace
 - 🔗 [Repo](https://github.com/NelsonValentinGarroDadan/backend-ecommerce)
 
 ---
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelsonValentinGarroDadan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonValentinGarroDadan&layout=compact&hide_title=true&theme=radical" alt="Lenguajes más utilizados" />
-</p>
-
-
-
----
-## 📬 ¡Conéctemos!
+## 📬 **Conéctate conmigo**
 
 Si te interesa alguno de mis proyectos, tienes alguna duda o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
 <div align="center">
@@ -88,14 +78,14 @@ Si te interesa alguno de mis proyectos, tienes alguna duda o simplemente quieres
     <img src="https://img.shields.io/badge/Portafolio-%230A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
   </a>
 </div>
+---
+## 📊 Estadísticas
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NelsonValentinGarroDadan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonValentinGarroDadan&layout=compact&hide_title=true&theme=radical" alt="Lenguajes más utilizados" />
+</p>
 
-
-
-
-
-
-
-
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColors=241326,b55d65,8e8f95)
 ---
 <p align="center">¡Gracias por visitar mi perfil!🐧</p>
