@@ -69,7 +69,6 @@ Un backend para gestionar compras de productos, autenticación con Auth0, almace
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NelsonValentinGarroDadan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonValentinGarroDadan&layout=compact&hide_title=true&theme=radical" alt="Lenguajes más utilizados" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonValentinGarroDadan&theme=radical" alt="Racha de contribuciones" />
 </p>
 
 
